@@ -1,0 +1,6 @@
+EMPLOYEERECORD.DAT
+*.exe
+*.o
+*.so
+*.dll
+*.log
